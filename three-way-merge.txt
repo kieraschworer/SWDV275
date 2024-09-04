@@ -1,4 +1,7 @@
 This is line one.
+<<<<<<< HEAD
 This is line two. Hey look, I'm making an edit! Now a second edit!
+=======
+>>>>>>> b1
 This is line two. Hey look, I'm making an edit!
 This is line three.
